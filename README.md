@@ -53,11 +53,16 @@ A new DataFrame is created with the same index as the crypto_df DataFrame and ha
 The clusters are plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
 ![Screen Shot 2022-03-27 at 9 23 43 PM](https://user-images.githubusercontent.com/93485455/160318275-0a29187c-5740-4808-94bb-f9c20a0e1846.png)
 
-
+A table with tradable cryptocurrencies is created using the hvplot.table() function
 ![Screen Shot 2022-03-27 at 9 25 16 PM](https://user-images.githubusercontent.com/93485455/160318312-f1983b94-a887-4b11-b615-693ff4370807.png)
 
+The total number of tradable cryptocurrencies is printed
+![Screen Shot 2022-03-27 at 10 50 57 PM](https://user-images.githubusercontent.com/93485455/160323526-e568fdfa-31de-478f-8dfc-beb7e59995c1.png)
+
+A DataFrame is created that contains the clustered_df DataFrame index, the scaled data, and the CoinName and Class columns
 ![Screen Shot 2022-03-27 at 9 25 49 PM](https://user-images.githubusercontent.com/93485455/160318337-e1b77cc5-38b4-45ad-b3c2-d074cb3bd212.png)
 
+A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point
 ![Screen Shot 2022-03-27 at 9 26 02 PM](https://user-images.githubusercontent.com/93485455/160318352-6bf99cae-26fb-4d46-94a7-e1c1e0c894b1.png)
 
 
