@@ -37,17 +37,22 @@ The features from the X DataFrame have been standardized using the StandardScale
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 
+Apply PCA to reduce the dimensions to three principal components. Create a new DataFrame named pcs_df that includes the following columns, PC 1, PC 2, and PC 3, and uses the index of the crypto_df DataFrame as the index.
 ![Screen Shot 2022-03-27 at 9 20 11 PM](https://user-images.githubusercontent.com/93485455/160315594-fae24639-2d71-4e25-a007-1a8d1248ad44.png)
 
 ## Deliverable 3: Clustering Cryptocurrencies Using K-means
 
+An elbow curve is created using hvPlot to find the best value for K
 ![Screen Shot 2022-03-27 at 9 24 43 PM](https://user-images.githubusercontent.com/93485455/160317993-32d03de4-bbfc-47e0-ab2f-fb725043b131.png)
 
+A new DataFrame is created with the same index as the crypto_df DataFrame and has the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class
 ![Screen Shot 2022-03-27 at 9 22 12 PM](https://user-images.githubusercontent.com/93485455/160315784-1b0ee97f-cd7e-4b3e-b2c8-801a5013f82c.png)
 
 ## Deliverable 4: Visualizing Cryptocurrencies Results
 
+The clusters are plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
 ![Screen Shot 2022-03-27 at 9 23 43 PM](https://user-images.githubusercontent.com/93485455/160318275-0a29187c-5740-4808-94bb-f9c20a0e1846.png)
+
 
 ![Screen Shot 2022-03-27 at 9 25 16 PM](https://user-images.githubusercontent.com/93485455/160318312-f1983b94-a887-4b11-b615-693ff4370807.png)
 
