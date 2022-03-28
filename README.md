@@ -31,8 +31,14 @@ We have been asked to create a report that includes what cryptocurrencies are on
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 
+![Screen Shot 2022-03-27 at 9 20 11 PM](https://user-images.githubusercontent.com/93485455/160315594-fae24639-2d71-4e25-a007-1a8d1248ad44.png)
 
 ## Deliverable 3: Clustering Cryptocurrencies Using K-means
 
+![Screen Shot 2022-03-27 at 9 24 43 PM](https://user-images.githubusercontent.com/93485455/160317993-32d03de4-bbfc-47e0-ab2f-fb725043b131.png)
+
+![Screen Shot 2022-03-27 at 9 22 12 PM](https://user-images.githubusercontent.com/93485455/160315784-1b0ee97f-cd7e-4b3e-b2c8-801a5013f82c.png)
 
 ## Deliverable 4: Visualizing Cryptocurrencies Results
+
+
