@@ -22,10 +22,10 @@ All the rows that have at least one null value are removed
 All the rows that do not have coins being mined are removed
 ![Screen Shot 2022-03-27 at 9 14 51 PM](https://user-images.githubusercontent.com/93485455/160315359-23ac3020-fe1e-4da6-a6d8-b7cb93fa3f46.png)
 
-The CoinName column is dropped
+A new DataFrame is created that stores all cryptocurrency names from the CoinName column and retains the index from the crypto_df DataFrame
 ![Screen Shot 2022-03-27 at 9 15 25 PM](https://user-images.githubusercontent.com/93485455/160315378-897a0e7e-0aa8-4c10-9a6b-83703d5f73dd.png)
 
-A new DataFrame is created that stores all cryptocurrency names from the CoinName column and retains the index from the crypto_df DataFrame
+The CoinName column is dropped 
 ![Screen Shot 2022-03-27 at 9 15 39 PM](https://user-images.githubusercontent.com/93485455/160315394-77784c1f-34ea-46b1-a41d-c5bac6be0068.png)
 
 The get_dummies() method is used to create variables for the text features, which are then stored in a new DataFrame, X
