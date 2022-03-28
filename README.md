@@ -43,8 +43,6 @@ We have been asked to create a report that includes what cryptocurrencies are on
 
 ![Screen Shot 2022-03-27 at 9 23 43 PM](https://user-images.githubusercontent.com/93485455/160318275-0a29187c-5740-4808-94bb-f9c20a0e1846.png)
 
-![Screen Shot 2022-03-27 at 9 24 43 PM](https://user-images.githubusercontent.com/93485455/160318290-9c640485-d493-43e2-bec5-35bff7948fb8.png)
-
 ![Screen Shot 2022-03-27 at 9 25 16 PM](https://user-images.githubusercontent.com/93485455/160318312-f1983b94-a887-4b11-b615-693ff4370807.png)
 
 ![Screen Shot 2022-03-27 at 9 25 49 PM](https://user-images.githubusercontent.com/93485455/160318337-e1b77cc5-38b4-45ad-b3c2-d074cb3bd212.png)
